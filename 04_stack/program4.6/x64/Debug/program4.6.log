@@ -1,0 +1,3 @@
+﻿  program4-6.cpp
+C:\Users\kgm09\source\repos\stack04\program4.6\program4-6.cpp(58,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  program4.6.vcxproj -> C:\Users\kgm09\source\repos\stack04\x64\Debug\program4.6.exe
