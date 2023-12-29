@@ -2,6 +2,18 @@
 #include <stdlib.h>
 #define MAX_STACK_SIZE 100
 
+
+//
+//		4.3 동적 배열 스택
+// 
+// 컴파일 시간에 필요한 스택의 크기를 알아야 하는데 실제로는 아주 어렵다. C언어에는 malloc()을 호출하여서 실행시간에 메모리를 할당 받을 수 있다.
+// 
+// 
+// realloc()은 동적 메모리의 크기를 변경하는 함수로서 현재 내용은 유지하면서 주어진 크기로 동적 메모리를 다시 할당한다. 배열의 크기는 2배씩 늘어난다.
+// 
+// 
+//
+
 typedef int element;
 typedef struct {
 	element* data;// data은 포인터로 정의한다.

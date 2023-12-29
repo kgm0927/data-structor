@@ -3,6 +3,16 @@
 
 #define MAX_STACK_SIZE 100
 
+//
+//		관련된 데이터를 함수의 매개변수로 전달하는 방법
+// 
+// 
+// 
+// 
+//
+
+
+
 typedef int element;
 
 typedef struct {
