@@ -1,0 +1,4 @@
+﻿  program5-5.cpp
+C:\Users\kgm09\Documents\GitHub\data-structor\05_queue\program5.5\program5-5.cpp(52,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\kgm09\Documents\GitHub\data-structor\05_queue\program5.5\program5-5.cpp(135,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  program5.5.vcxproj -> C:\Users\kgm09\Documents\GitHub\data-structor\05_queue\x64\Debug\program5.5.exe
